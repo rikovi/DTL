@@ -1,4 +1,4 @@
 # DTL
 This is my first git repository!
 <br>
-My name is Komal Waghmore.
+My name is Komal Vilas Waghmore.
