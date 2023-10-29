@@ -11,7 +11,7 @@ int main() {
     printf("2. Subtraction\n");
     printf("3. Multiplication\n");
     printf("4. Division\n");
-    printf("5. Exponentiation\n");
+  //  printf("5. Exponentiation\n");
     scanf("%d", &choice);
 
 
@@ -32,9 +32,10 @@ int main() {
                 printf("Result: %f\n", (float)x / y);
             }
             break;
-        case 5:
+       /* case 5:
             printf("Result: %lf\n", pow(x, y));
             break;
+            */
         default:
             printf("Invalid choice\n");
     }
